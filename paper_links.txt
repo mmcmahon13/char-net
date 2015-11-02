@@ -28,6 +28,8 @@ RESOURCES:
 (Clustering tutorial)
 http://brandonrose.org/clustering#Stopwords,-stemming,-and-tokenizing
 
+----------------------------------------------------------------
+
 TOOLS:
 - Book-NLP
 - NLTK
