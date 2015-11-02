@@ -1,0 +1,35 @@
+PAPERS:
+Character Role Assignment:
+
+(Russian Folklore matrix thing)
+http://digm.drexel.edu/jzhu/publications/Valls_INT6_roleAssignment.pdf 
+
+(Book Characters)
+http://acl2014.org/acl2014/P14-1/pdf/P14-1035.pdf
+
+(Film Characters)
+https://www.cs.cmu.edu/~dbamman/pubs/pdf/bamman+oconnor+smith.acl13.pdf
+
+Network Papers:
+
+(Shakespeare Sentiment Networks)
+http://www.cs.lehigh.edu/~baird/Pubs/icdar2013_nalisnick.pdf
+
+(Fiction Social Network Extraction)
+http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf
+
+(Network sentiment analysis - general)
+http://infolab.stanford.edu/~west1/pubs/West-Paskov-Leskovec-Potts_TACL-14.pdf
+
+----------------------------------------------------------------
+
+RESOURCES:
+
+(Clustering tutorial)
+http://brandonrose.org/clustering#Stopwords,-stemming,-and-tokenizing
+
+TOOLS:
+- Book-NLP
+- NLTK
+- Gensim
+- scikit-learn
