@@ -1,0 +1,562 @@
+*
+Muggles
+The Dursleys
+Aunt Marge
+Frank Bryce
+Mrs. Figg
+Mr. Roberts
+Mrs. Cole
+*
+Hogwarts Students
+Harry Potter
+Ron Weasley
+Hermione Granger
+Fred Weasley
+George Weasley
+Hannah Abbot
+Draco Malfoy
+Fred Weasley
+Neville Longbottom
+George Weasley
+Ginny Weasley
+Percy Weasley
+Luna Lovegood
+Cedric Diggory
+Vincent Crabbe
+Dean Thomas
+Seamus Finnigan
+Oliver Wood
+Cho Chang
+Gregory Goyle
+Katie Bell
+Parvati Patil
+Lee Jordan
+Ernie Macmillan
+Colin Creevey
+Cormac McLaggen
+Alicia Spinnet
+Pansy Parkinson
+Zacharias Smith
+Justin Finch-Fletchley
+Lavender Brown
+Zabini 
+Marietta Edgecomb
+Roger Davies
+Angelina Johnson
+Hannah Abbot
+Montague
+Michael Corner
+Warrington
+Leanne
+Padma Patil
+Romilda Vane
+Dennis Creevey
+*
+Hogwarts Teachers
+Albus Dumbledore
+Rubeus Hagrid
+Severus Snape
+Minerva McGonagall
+Dolores Umbridge
+Remus Lupin
+Mad-Eye Moody
+Horace Slughorn
+Gilderoy Lockhart
+Sybill Trelawney
+Flitwick
+Quirrell
+Madame Pomfrey
+Binns
+Grubbly-Plank 
+Madam Hooch
+Firenze
+*
+Ministry Officials
+Lucius Malfoy
+Dolores Umbridge
+Arthur Weasley
+Mad-Eye Moody
+Percy Weasley
+Tonks
+Kingsley Shacklebolt
+Cornelius Fudge
+Bob Ogden
+Yaxley 
+Barty Crouch
+Bertha Jorkins
+Rufus Scrimgeour
+Dirk Cresswell
+Sturgis Podmore
+*
+Quidditch Players
+Harry Potter
+Ron Weasley
+Draco Malfoy
+Fred Weasley
+George Weasley
+Ginny Weasley
+Cedric Diggory
+Viktor Krum
+Vincent Crabbe
+Oliver Wood
+Cho Chang
+Gregory Goyle
+Katie Bell
+Ludo Bagman
+Cormac McLaggen
+Alicia Spinnet
+Zacharias Smith
+Madam Hooch
+Roger Davies
+Angelina Johnson
+Montague
+Warrington
+*
+Gryffindors
+Harry Potter
+Ron Weasley
+Hermione Granger
+Albus Dumbledore
+Rubeus Hagrid
+Sirius Black
+Fred Weasley
+Neville Longbottom
+George Weasley
+Ginny Weasley
+Minerva McGonagall
+Remus Lupin
+Percy Weasley
+Bill Weasley
+Dean Thomas
+Seamus Finnigan
+Oliver Wood
+Peter Pettigrew
+Nearly-Headless Nick
+Katie Bell
+Charlie Weasley
+Parvati Patil
+Lily Potter
+Lee Jordan
+Godric Gryffindor
+Colin Creevey
+Cormac McLaggen
+Alicia Spinnet
+Lavender Brown
+Angelina Johnson
+Romilda Vane
+Dennis Creevey
+*
+Ravenclaws
+Luna Lovegood
+Cho Chang
+Flitwick
+Marietta 
+Roger Davies
+Michael Corner
+Rowena Ravenclaw
+Padma Patil
+*
+Hufflepuffs
+Hannah Abbot
+Cedric Diggory
+Ernie Macmillan
+Zacharias Smith
+Justin Finch-Fletchley
+Leanne
+*
+Slytherins
+Severus Snape
+Voldemort
+Draco Malfoy
+Lucius Malfoy
+Horace Slughorn
+Bellatrix Lestrange
+Vincent Crabbe
+Gregory Goyle
+Salazar Slytherin
+Phineas Nigelus
+Narcissa Malfoy
+Pansy Parkinson
+Zabini 
+Montague
+Warrington
+*
+Muggle-borns
+Hermione Granger
+Lily Potter
+Colin Creevey
+Justin Finch-Fletchley
+Mrs. Cattermole
+Dirk Cresswell
+Kendra Dumbledore
+Dennis Creevey
+*
+Purebloods
+Harry Potter
+Ron Weasley
+Severus Snape
+Sirius Black
+Draco Malfoy
+Lucius Malfoy
+Fred Weasley
+Neville Longbottom
+George Weasley
+Ginny Weasley
+Mrs. Weasley
+Arthur Weasley
+Percy Weasley
+Luna Lovegood
+Horace Slughorn
+Bill Weasley
+Bellatrix Lestrange
+Vincent Crabbe
+Gregory Goyle
+Charlie Weasley
+Ernie Macmillan
+Salazar Slytherin
+Phineas Nigelus
+Narcissa Malfoy
+Morfin Gaunt
+Yaxley 
+Barty Crouch
+Antonin Dolohov
+Regulus
+*
+Half Bloods
+Hannah Abbot
+Albus Dumbledore
+Ariana Dumbledore
+Rubeus Hagrid
+Voldemort
+Minerva McGonagall
+Dolores Umbridge
+Remus Lupin
+Dean Thomas
+Seamus Finnigan
+Tonks
+Fleur Delacour
+Aberforth Dumbledore
+*
+Humans
+Harry Potter
+Hannah Abbot
+Ron Weasley
+Hermione Granger
+Albus Dumbledore
+Ariana Dumbledore
+Severus Snape
+Voldemort
+Draco Malfoy
+Lucius Malfoy
+Fred Weasley
+Neville Longbottom
+George Weasley
+Ginny Weasley
+The Dursleys
+Minerva McGonagall
+Mrs. Weasley
+Dolores Umbridge
+Arthur Weasley
+Mad-Eye Moody
+Percy Weasley
+Luna Lovegood
+Cedric Diggory
+Horace Slughorn
+Bill Weasley
+Gilderoy Lockhart
+Viktor Krum
+Rita Skeeter
+Bellatrix Lestrange
+Vincent Crabbe
+Dean Thomas
+Seamus Finnigan
+Oliver Wood
+Tonks
+Cho Chang
+Peter Pettigrew
+Igor Karkaroff
+Flitwick
+Justin Finch-Fletchley
+Quirrell
+Katie Bell
+Charlie Weasley
+Ludo Bagman
+Parvati Patil
+Lily Potter
+Lee Jordan
+Ernie Macmillan
+Kingsley Shacklebolt
+Salazar Slytherin
+Mundungus Fletcher
+Madame Pomfrey
+Phineas Nigelus
+Stan Shunpike
+Godric Gryffindor
+Narcissa Malfoy
+Aberforth Dumbledore
+Cornelius Fudge
+Aunt Marge
+Colin Creevey
+Frank Bryce
+Morfin Gaunt
+Xenophilius Lovegood 
+Bathilda Bagshot
+Bob Ogden
+Cormac McLaggen
+Auntie Muriel
+Alicia Spinnet
+Amos Diggory
+Pansy Parkinson
+Mrs. Figg
+Zacharias Smith
+Yaxley 
+Borgin
+Grubbly-Plank 
+Barty Crouch
+Bertha Jorkins
+Madam Rosmerta
+Marietta 
+Lavender Brown
+Zabini
+Rufus Scrimgeour
+Gregorovitch
+Madam Hooch
+Roger Davies
+Angelina Johnson
+Antonin Dolohov
+Dedalus Diggle
+Montague
+Mrs. Cattermole
+Nicolas Flamel
+Michael Corner
+Madame Malkin
+Hepzibah Smith
+Rowena Ravenclaw
+Filch
+Mr. Roberts
+Dirk Cresswell
+Macnair
+Kendra Dumbledore
+Mrs. Cole
+Warrington
+Leanne
+Padma Patil
+Eileen Prince
+Regulus
+Sturgis Podmore
+Travers
+Romilda Vane
+*
+Part Humans
+Rubeus Hagrid
+Remus Lupin
+Fleur Delacour
+Madame Maxime
+Fenrir Greyback
+*
+Non-Humans
+Pets
+Scabbers
+Hedwig
+Fang
+Mrs. Norris
+Crookshanks
+Pigwidgeon
+Norbert
+Errol
+Nagini
+House Elves
+Dobby
+Kreacher
+Winky
+Werewolves
+Remus Lupin
+Fenrir Greyback
+Other 
+Griphook
+Nearly-Headless Nick
+Buckbeak
+Grawp
+Aragog
+Fawkes
+Firenze
+Ronan
+*
+Death Eaters
+Severus Snape
+Voldemort
+Draco Malfoy
+Lucius Malfoy
+Bellatrix Lestrange
+Vincent Crabbe
+Peter Pettigrew
+Igor Karkaroff
+Gregory Goyle
+Quirrell
+Fenrir Greyback
+Stan Shunpike
+Narcissa Malfoy
+Yaxley 
+Antonin Dolohov
+Macnair
+Regulus
+Travers
+*
+Order of the Phoenix 
+Albus Dumbledore
+Rubeus Hagrid
+Severus Snape
+Sirius Black
+Minerva McGonagall
+Mrs. Weasley
+Remus Lupin
+Arthur Weasley
+Mad-Eye Moody
+Bill Weasley
+Tonks
+Fleur Delacour
+Flitwick
+Lily Potter
+Kingsley Shacklebolt
+Mundungus Fletcher
+Mrs. Figg
+Dedalus Diggle
+Sturgis Podmore
+*
+Dumbledore’s Army
+Hannah Abbot
+Harry Potter
+Ron Weasley
+Hermione Granger
+Fred Weasley
+Neville Longbottom
+George Weasley
+Ginny Weasley
+Luna Lovegood
+Dean Thomas
+Seamus Finnigan
+Cho Chang
+Katie Bell
+Charlie Weasley
+Parvati Patil
+Lee Jordan
+Ernie Macmillan
+Colin Creevey
+Alicia Spinnet
+Zacharias Smith
+Marietta 
+Lavender Brown
+Angelina Johnson
+Michael Corner
+Leanne
+Padma Patil
+Romilda Vane
+Dennis Creevey
+*
+Animagi
+Sirius Black
+Minerva McGonagall
+Rita Skeeter
+Peter Pettigrew
+*
+Parselmouths
+Harry Potter
+Voldemort
+Salazar Slytherin
+*
+Convicts
+Rubeus Hagrid
+Sirius Black
+Bellatrix Lestrange
+Lucius Malfoy
+Mundungus Fletcher
+Fenrir Greyback
+Stan Shunpike
+Antonin Dolohov
+Sturgis Podmore
+Travers
+*
+Weasleys
+Ron Weasley
+Fred Weasley
+George Weasley
+Ginny Weasley
+Mrs. Weasley
+Arthur Weasley
+Percy Weasley
+Bill Weasley
+Charlie Weasley
+Auntie Muriel
+*
+Dead 
+Albus Dumbledore
+Ariana Dumbledore
+Severus Snape
+Voldemort
+Sirius Black
+Fred Weasley
+Remus Lupin
+Mad-Eye Moody
+Dobby
+Cedric Diggory
+Bellatrix Lestrange
+Vincent Crabbe
+Tonks
+Peter Pettigrew
+Hedwig
+Quirrell
+Nearly-Headless Nick
+Lily Potter
+Colin Creevey
+Frank Bryce
+Morfin Gaunt
+Bathilda Bagshot
+Bertha Jorkins
+Lavender Brown
+Rufus Scrimgeour
+Gregorovitch
+Nicolas Flamel
+Hepzibah Smith
+Kendra Dumbledore
+Nagini
+Regulus
+*
+Bullies
+The Dursleys
+Sirius Black
+Voldemort
+Severus Snape
+Draco Malfoy
+Lucius Malfoy
+Fred Weasley
+George Weasley
+Dolores Umbridge
+Bellatrix Lestrange
+Vincent Crabbe
+Gregory Goyle
+Fenrir Greyback
+Phineas Nigelus
+Aunt Marge
+Pansy Parkinson
+Yaxley 
+Montague
+Filch
+Warrington
+*
+Victims (of something other than death? bullying?)
+Severus Snape
+Ariana Dumbledore
+Neville Longbottom
+Ginny Weasley
+Remus Lupin
+Dobby
+Luna Lovegood
+Cedric Diggory
+Bill Weasley
+Kreacher
+Katie Bell
+Lily Potter
+Aberforth Dumbledore
+Madam Rosmerta
+Mrs. Cattermole
+Mr. Roberts
