@@ -21,12 +21,19 @@ http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf
 (Network sentiment analysis - general)
 http://infolab.stanford.edu/~west1/pubs/West-Paskov-Leskovec-Potts_TACL-14.pdf
 
+PAPERS ABOUT LDA:
+(original Blei LDA paper) 
+http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
+
 ----------------------------------------------------------------
 
 RESOURCES:
 
-(Clustering tutorial)
+(Clustering tutorial - heavily used)
 http://brandonrose.org/clustering#Stopwords,-stemming,-and-tokenizing
+
+(LDA topic blog post)
+http://blog.cigrainger.com/2014/07/lda-number.html
 
 ----------------------------------------------------------------
 
