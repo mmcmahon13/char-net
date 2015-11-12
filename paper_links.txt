@@ -25,6 +25,9 @@ PAPERS ABOUT LDA:
 (original Blei LDA paper) 
 http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
 
+(different approach for finding optimal number of topics)
+http://link.springer.com/chapter/10.1007/978-3-642-13657-3_43
+
 ----------------------------------------------------------------
 
 RESOURCES:
