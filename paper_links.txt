@@ -21,12 +21,22 @@ http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf
 (Network sentiment analysis - general)
 http://infolab.stanford.edu/~west1/pubs/West-Paskov-Leskovec-Potts_TACL-14.pdf
 
+PAPERS ABOUT LDA:
+(original Blei LDA paper) 
+http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
+
+(different approach for finding optimal number of topics)
+http://link.springer.com/chapter/10.1007/978-3-642-13657-3_43
+
 ----------------------------------------------------------------
 
 RESOURCES:
 
-(Clustering tutorial)
+(Clustering tutorial - heavily used)
 http://brandonrose.org/clustering#Stopwords,-stemming,-and-tokenizing
+
+(LDA topic blog post)
+http://blog.cigrainger.com/2014/07/lda-number.html
 
 ----------------------------------------------------------------
 
