@@ -1,8 +1,8 @@
 *
 Muggles
 Dudley
-Vernon
-Petunia
+Mr. Dursley
+Mrs. Dursley
 Aunt Marge
 Frank Bryce
 Mrs. Figg
@@ -15,7 +15,7 @@ Ron Weasley
 Hermione Granger
 Fred Weasley
 George Weasley
-Hannah Abbot
+Hannah Abbott
 Draco Malfoy
 Fred Weasley
 Neville Longbottom
@@ -42,10 +42,10 @@ Zacharias Smith
 Justin Finch-Fletchley
 Lavender Brown
 Zabini 
-Marietta Edgecomb
+Marietta
 Roger Davies
 Angelina Johnson
-Hannah Abbot
+Hannah Abbott
 Montague
 Michael Corner
 Warrington
@@ -64,17 +64,17 @@ Remus Lupin
 Mad-Eye Moody
 Horace Slughorn
 Gilderoy Lockhart
-Sybill Trelawney
+Trelawney
 Flitwick
 Quirrell
-Madame Pomfrey
+Madam Pomfrey
 Binns
 Grubbly-Plank 
 Madam Hooch
 Firenze
 *
 Ministry Officials
-Lucius Malfoy
+Lucius
 Dolores Umbridge
 Arthur Weasley
 Mad-Eye Moody
@@ -128,12 +128,12 @@ Ginny Weasley
 Minerva McGonagall
 Remus Lupin
 Percy Weasley
-Bill Weasley
+Bill
 Dean Thomas
 Seamus Finnigan
 Oliver Wood
 Peter Pettigrew
-Nearly-Headless Nick
+Nearly Headless Nick
 Katie Bell
 Charlie Weasley
 Parvati Patil
@@ -159,7 +159,7 @@ Rowena Ravenclaw
 Padma Patil
 *
 Hufflepuffs
-Hannah Abbot
+Hannah Abbott
 Cedric Diggory
 Ernie Macmillan
 Zacharias Smith
@@ -170,7 +170,7 @@ Slytherins
 Severus Snape
 Voldemort
 Draco Malfoy
-Lucius Malfoy
+Lucius
 Horace Slughorn
 Bellatrix Lestrange
 Vincent Crabbe
@@ -190,7 +190,7 @@ Colin Creevey
 Justin Finch-Fletchley
 Mrs. Cattermole
 Dirk Cresswell
-Kendra Dumbledore
+Kendra
 Dennis Creevey
 *
 Purebloods
@@ -199,7 +199,7 @@ Ron Weasley
 Severus Snape
 Sirius Black
 Draco Malfoy
-Lucius Malfoy
+Lucius
 Fred Weasley
 Neville Longbottom
 George Weasley
@@ -209,7 +209,7 @@ Arthur Weasley
 Percy Weasley
 Luna Lovegood
 Horace Slughorn
-Bill Weasley
+Bill
 Bellatrix Lestrange
 Vincent Crabbe
 Gregory Goyle
@@ -218,16 +218,16 @@ Ernie Macmillan
 Salazar Slytherin
 Phineas Nigelus
 Narcissa Malfoy
-Morfin Gaunt
+Morfin
 Yaxley 
 Barty Crouch
 Antonin Dolohov
 Regulus
 *
 Half Bloods
-Hannah Abbot
+Hannah Abbott
 Albus Dumbledore
-Ariana Dumbledore
+Ariana
 Rubeus Hagrid
 Voldemort
 Minerva McGonagall
@@ -237,26 +237,26 @@ Dean Thomas
 Seamus Finnigan
 Tonks
 Fleur Delacour
-Aberforth Dumbledore
+Aberforth
 *
 Humans
 Harry Potter
-Hannah Abbot
+Hannah Abbott
 Ron Weasley
 Hermione Granger
 Albus Dumbledore
-Ariana Dumbledore
+Ariana
 Severus Snape
 Voldemort
 Draco Malfoy
-Lucius Malfoy
+Lucius
 Fred Weasley
 Neville Longbottom
 George Weasley
 Ginny Weasley
 Dudley
-Vernon
-Petunia
+Mr. Dursley
+Mrs. Dursley
 Minerva McGonagall
 Mrs. Weasley
 Dolores Umbridge
@@ -266,7 +266,7 @@ Percy Weasley
 Luna Lovegood
 Cedric Diggory
 Horace Slughorn
-Bill Weasley
+Bill
 Gilderoy Lockhart
 Viktor Krum
 Rita Skeeter
@@ -292,17 +292,17 @@ Ernie Macmillan
 Kingsley Shacklebolt
 Salazar Slytherin
 Mundungus Fletcher
-Madame Pomfrey
+Madam Pomfrey
 Phineas Nigelus
 Stan Shunpike
 Godric Gryffindor
 Narcissa Malfoy
-Aberforth Dumbledore
+Aberforth
 Cornelius Fudge
 Aunt Marge
 Colin Creevey
 Frank Bryce
-Morfin Gaunt
+Morfin
 Xenophilius Lovegood 
 Bathilda Bagshot
 Bob Ogden
@@ -333,14 +333,14 @@ Montague
 Mrs. Cattermole
 Nicolas Flamel
 Michael Corner
-Madame Malkin
+Madam Malkin
 Hepzibah Smith
 Rowena Ravenclaw
 Filch
 Mr. Roberts
 Dirk Cresswell
 Macnair
-Kendra Dumbledore
+Kendra
 Mrs. Cole
 Warrington
 Leanne
@@ -378,7 +378,7 @@ Remus Lupin
 Fenrir Greyback
 Other 
 Griphook
-Nearly-Headless Nick
+Nearly Headless Nick
 Buckbeak
 Grawp
 Aragog
@@ -390,7 +390,7 @@ Death Eaters
 Severus Snape
 Voldemort
 Draco Malfoy
-Lucius Malfoy
+Lucius
 Bellatrix Lestrange
 Vincent Crabbe
 Peter Pettigrew
@@ -416,11 +416,12 @@ Mrs. Weasley
 Remus Lupin
 Arthur Weasley
 Mad-Eye Moody
-Bill Weasley
+Bill
 Tonks
 Fleur Delacour
 Flitwick
 Lily Potter
+James Potter
 Kingsley Shacklebolt
 Mundungus Fletcher
 Mrs. Figg
@@ -428,7 +429,7 @@ Dedalus Diggle
 Sturgis Podmore
 *
 Dumbledore’s Army
-Hannah Abbot
+Hannah Abbott
 Harry Potter
 Ron Weasley
 Hermione Granger
@@ -459,6 +460,7 @@ Dennis Creevey
 *
 Animagi
 Sirius Black
+James Potter
 Minerva McGonagall
 Rita Skeeter
 Peter Pettigrew
@@ -472,7 +474,7 @@ Convicts
 Rubeus Hagrid
 Sirius Black
 Bellatrix Lestrange
-Lucius Malfoy
+Lucius
 Mundungus Fletcher
 Fenrir Greyback
 Stan Shunpike
@@ -488,13 +490,13 @@ Ginny Weasley
 Mrs. Weasley
 Arthur Weasley
 Percy Weasley
-Bill Weasley
+Bill
 Charlie Weasley
 Auntie Muriel
 *
 Dead 
 Albus Dumbledore
-Ariana Dumbledore
+Ariana
 Severus Snape
 Voldemort
 Sirius Black
@@ -509,11 +511,12 @@ Tonks
 Peter Pettigrew
 Hedwig
 Quirrell
-Nearly-Headless Nick
+Nearly Headless Nick
 Lily Potter
+James Potter
 Colin Creevey
 Frank Bryce
-Morfin Gaunt
+Morfin
 Bathilda Bagshot
 Bertha Jorkins
 Lavender Brown
@@ -521,19 +524,20 @@ Rufus Scrimgeour
 Gregorovitch
 Nicolas Flamel
 Hepzibah Smith
-Kendra Dumbledore
+Kendra
 Nagini
 Regulus
 *
 Bullies
 Dudley
-Vernon
-Petunia
+Mr. Dursley
+Mrs. Dursley
 Sirius Black
+James Potter
 Voldemort
 Severus Snape
 Draco Malfoy
-Lucius Malfoy
+Lucius
 Fred Weasley
 George Weasley
 Dolores Umbridge
@@ -548,21 +552,22 @@ Yaxley
 Montague
 Filch
 Warrington
+James Potter
 *
 Victims (of something other than death? bullying?)
 Severus Snape
-Ariana Dumbledore
+Ariana
 Neville Longbottom
 Ginny Weasley
 Remus Lupin
 Dobby
 Luna Lovegood
 Cedric Diggory
-Bill Weasley
+Bill
 Kreacher
 Katie Bell
 Lily Potter
-Aberforth Dumbledore
+Aberforth
 Madam Rosmerta
 Mrs. Cattermole
 Mr. Roberts
