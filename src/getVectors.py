@@ -17,8 +17,8 @@ import matplotlib as mpl
 
 # In[201]:
 
-def getVectors():
-    f=open("cluster.txt","r")
+def getVectors(filename):
+    f=open(filename,"r")
     nextIsTopic=False;
     TopicCount=0
     thelist=[] #list of all characters with their position being the position in the vector list
@@ -38,7 +38,7 @@ def getVectors():
             nextIsTopic=True
 
     f.close()
-    f=open("cluster.txt","r")
+    f=open(filename,"r")
     currentTopic=-1
     vectors=[]
     for char in thelist:
@@ -47,6 +47,8 @@ def getVectors():
             l.append(0)
         vectors.append(l)
     nextIsTopic=False
+
+   # print TopicCount
     
     for line in f:
         line = line.strip('\n')
