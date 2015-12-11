@@ -13,10 +13,8 @@ import matplotlib as mpl
 
 
 
-# Convert the annotated character list into a vector of groups for each character
-
-# In[201]:
-
+# Convert the annotated character list into a vector for each character
+# Vectors have length |number of features|, each index is a binary feature indicating if character is in that group
 def getVectors(filename):
     f=open(filename,"r")
     nextIsTopic=False;
@@ -24,7 +22,7 @@ def getVectors(filename):
     thelist=[] #list of all characters with their position being the position in the vector list
     listcount=0
     dic= defaultdict(lambda: -1) # list of their positions in the vector list
-    for line in f: #get number of topics and character positions
+    for line in f: # get number of topics and character positions
         line = line.strip('\n')
         if(dic[line]==-1):
             if(line!="*" and nextIsTopic==False):
@@ -59,6 +57,7 @@ def getVectors(filename):
             currentTopic+=1
         if(line=="*"):
             nextIsTopic=True
+    # return the list of character feature vectors and the list of corresponding character names
     return (vectors,thelist)
 
 
