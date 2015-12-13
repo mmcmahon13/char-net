@@ -48,7 +48,7 @@ def getCharVectorsFromJson( mention_threshold = 100,
     for word in book.split():
         bookDict[word] += 1
     counter = Counter(bookDict)
-    top_n = counter.most_common(200)
+    top_n = counter.most_common(100)
     print "Most common words in book: ", top_n
     print
     bookfile.close()
