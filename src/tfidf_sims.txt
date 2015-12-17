@@ -1,0 +1,1164 @@
+Most similar to Fang:
+1. Harry 0.116808
+2. Hagrid 0.115615
+3. Ron 0.100433
+4. Malfoy 0.0851769
+5. Hermione 0.0851557
+6. Dumbledore 0.0752489
+7. Crookshanks 0.0663826
+8. Snape 0.0654016
+9. George 0.0625973
+10. Neville 0.0622018
+
+Most similar to Lupin:
+1. Hermione 0.483064
+2. Dumbledore 0.457149
+3. Ron 0.455022
+4. Harry 0.432117
+5. Snape 0.374171
+6. Sirius 0.349558
+7. Molly Weasley 0.317348
+8. Fred 0.310145
+9. Mr. Weasley 0.305693
+10. Ginny 0.291045
+
+Most similar to Dudley:
+1. Harry 0.234318
+2. Ron 0.192153
+3. Malfoy 0.16627
+4. Hermione 0.162986
+5. Sirius 0.148596
+6. Ginny 0.140068
+7. Snape 0.137869
+8. Dumbledore 0.136239
+9. Voldemort 0.126867
+10. Neville 0.124998
+
+Most similar to Cho:
+1. Harry 0.258439
+2. Ron 0.236688
+3. Hermione 0.222488
+4. Dumbledore 0.169879
+5. Ginny 0.159553
+6. Fred 0.14708
+7. Sirius 0.143788
+8. Snape 0.135373
+9. Malfoy 0.133999
+10. Molly Weasley 0.129449
+
+Most similar to Fred:
+1. Ron 0.541655
+2. Hermione 0.516747
+3. George 0.458496
+4. Harry 0.445675
+5. Dumbledore 0.391118
+6. Ginny 0.356721
+7. Molly Weasley 0.342341
+8. Sirius 0.340596
+9. Snape 0.324572
+10. Mr. Weasley 0.315117
+
+Most similar to Hogwarts:
+1. Harry 0.131195
+2. Ron 0.0910671
+3. Sirius 0.086123
+4. Voldemort 0.0859096
+5. Dumbledore 0.0793613
+6. Hermione 0.072767
+7. Snape 0.0705802
+8. Dursleys 0.0702713
+9. Percy 0.0698595
+10. Malfoy 0.0559451
+
+Most similar to Kingsley:
+1. Harry 0.0600574
+2. Hermione 0.0588668
+3. Dumbledore 0.0587117
+4. Sirius 0.0559885
+5. Ron 0.054973
+6. Snape 0.0523743
+7. Mr. Weasley 0.0497315
+8. Malfoy 0.0457702
+9. Minerva McGonagall 0.0446502
+10. Bellatrix 0.0445416
+
+Most similar to Moody:
+1. Ron 0.317439
+2. Harry 0.312901
+3. Hermione 0.312582
+4. Dumbledore 0.307608
+5. Snape 0.302577
+6. Sirius 0.247704
+7. Minerva McGonagall 0.231246
+8. Lupin 0.219888
+9. Malfoy 0.211665
+10. Fred 0.209102
+
+Most similar to Winky:
+1. Hermione 0.147953
+2. Dumbledore 0.138613
+3. Harry 0.136024
+4. Ron 0.129512
+5. Snape 0.124063
+6. Sirius 0.121305
+7. Dobby 0.113707
+8. Mr. Crouch 0.111767
+9. Voldemort 0.106001
+10. Ginny 0.100279
+
+Most similar to James:
+1. Harry 0.197825
+2. Ron 0.163253
+3. Hermione 0.155881
+4. Sirius 0.155183
+5. Dumbledore 0.142119
+6. Ginny 0.131545
+7. Malfoy 0.12345
+8. Molly Weasley 0.121543
+9. Lupin 0.119453
+10. Voldemort 0.118981
+
+Most similar to Voldemort:
+1. Harry 0.39445
+2. Dumbledore 0.348384
+3. Snape 0.295492
+4. Ron 0.28009
+5. Hermione 0.271188
+6. Sirius 0.260394
+7. Malfoy 0.223348
+8. Lupin 0.212964
+9. Mr. Crouch 0.201511
+10. Ginny 0.191067
+
+Most similar to Krum:
+1. Harry 0.139937
+2. Ron 0.112689
+3. Malfoy 0.10199
+4. Dumbledore 0.0974676
+5. Hermione 0.0950242
+6. Cedric 0.0927859
+7. Snape 0.0892141
+8. Ginny 0.0865374
+9. Sirius 0.0838036
+10. Fred 0.0777797
+
+Most similar to Bellatrix:
+1. Snape 0.254922
+2. Hermione 0.252574
+3. Dumbledore 0.251216
+4. Ron 0.224207
+5. Harry 0.220637
+6. Narcissa 0.197394
+7. Sirius 0.189857
+8. Lupin 0.170346
+9. Malfoy 0.157318
+10. Voldemort 0.153712
+
+Most similar to Albus Dumbledore:
+1. Harry 0.140078
+2. Voldemort 0.114761
+3. Sirius 0.105016
+4. Ron 0.103279
+5. Dumbledore 0.0994785
+6. James 0.0955448
+7. Lily 0.0953051
+8. Malfoy 0.0871681
+9. Snape 0.0840507
+10. Ginny 0.0804366
+
+Most similar to Maxime:
+1. Fleur 0.112014
+2. Hermione 0.0773246
+3. Ron 0.0731149
+4. Dumbledore 0.0709457
+5. Harry 0.0695746
+6. Minerva McGonagall 0.0631381
+7. Snape 0.0581182
+8. Karkaroff 0.0540298
+9. Sirius 0.053696
+10. Umbridge 0.0513538
+
+Most similar to Lockhart:
+1. Dumbledore 0.312128
+2. Hermione 0.309115
+3. Snape 0.29729
+4. Harry 0.295648
+5. Ron 0.295189
+6. Minerva McGonagall 0.234695
+7. Umbridge 0.229993
+8. Fred 0.210332
+9. Malfoy 0.206912
+10. Sirius 0.205412
+
+Most similar to Pettigrew:
+1. Harry 0.236864
+2. Sirius 0.213696
+3. Dumbledore 0.197135
+4. Hermione 0.183064
+5. Snape 0.178145
+6. Voldemort 0.176946
+7. Ron 0.175146
+8. Lupin 0.146304
+9. Cedric 0.131777
+10. Malfoy 0.129517
+
+Most similar to Minerva McGonagall:
+1. Dumbledore 0.413848
+2. Snape 0.385431
+3. Hermione 0.38535
+4. Harry 0.360527
+5. Ron 0.35058
+6. Umbridge 0.310325
+7. Lupin 0.278331
+8. Molly Weasley 0.261129
+9. Malfoy 0.251158
+10. Ginny 0.243393
+
+Most similar to Ministry of Magic:
+1. Hermione 0.0501226
+2. Ron 0.0344269
+3. Harry 0.02909
+4. Dumbledore 0.0259784
+5. Fred 0.0243983
+6. Lucius 0.0242186
+7. Ginny 0.0230431
+8. Umbridge 0.0216398
+9. Snape 0.0215361
+10. Minerva McGonagall 0.0199571
+
+Most similar to George:
+1. Fred 0.458496
+2. Ron 0.450248
+3. Hermione 0.41923
+4. Harry 0.38055
+5. Dumbledore 0.314048
+6. Ginny 0.303073
+7. Sirius 0.283979
+8. Molly Weasley 0.269565
+9. Snape 0.263637
+10. Malfoy 0.251221
+
+Most similar to Mr. Diggory:
+1. Ron 0.154962
+2. Molly Weasley 0.15489
+3. Hermione 0.148183
+4. Harry 0.146385
+5. Moody 0.132081
+6. Dumbledore 0.12599
+7. Mr. Weasley 0.118088
+8. Minerva McGonagall 0.104348
+9. Snape 0.102941
+10. Lupin 0.101402
+
+Most similar to Fleur:
+1. Ron 0.12454
+2. Harry 0.12156
+3. Hermione 0.114139
+4. Maxime 0.112014
+5. Dumbledore 0.104978
+6. Ginny 0.100613
+7. Mrs. Weasley 0.0907402
+8. Snape 0.0900499
+9. Fred 0.0829989
+10. Molly Weasley 0.0827587
+
+Most similar to Aberforth:
+1. Hermione 0.303095
+2. Ron 0.300799
+3. Harry 0.258128
+4. Dumbledore 0.240978
+5. Sirius 0.226413
+6. Fred 0.207858
+7. Snape 0.202359
+8. Lupin 0.183515
+9. Ginny 0.183412
+10. Mr. Weasley 0.182072
+
+Most similar to Greyback:
+1. Moody 0.10454
+2. Ron 0.0873568
+3. Hermione 0.0751481
+4. Harry 0.0739862
+5. Malfoy 0.0666607
+6. Snape 0.0598781
+7. Dumbledore 0.0586059
+8. Mr. Weasley 0.0581353
+9. Sirius 0.0555672
+10. Molly Weasley 0.053274
+
+Most similar to Vernon Dursley:
+1. Ron 0.263209
+2. Harry 0.260922
+3. Hermione 0.238215
+4. Dumbledore 0.220415
+5. Snape 0.197836
+6. Fred 0.180947
+7. Moody 0.175269
+8. Molly Weasley 0.174153
+9. Sirius 0.172889
+10. Mr. Weasley 0.172852
+
+Most similar to Goyle:
+1. Crabbe 0.329592
+2. Malfoy 0.115024
+3. Harry 0.095503
+4. Ron 0.0916934
+5. Hermione 0.0742609
+6. Vernon Dursley 0.0742318
+7. Fred 0.0740309
+8. Snape 0.0725036
+9. Neville 0.0692933
+10. Dumbledore 0.0642444
+
+Most similar to Crabbe:
+1. Goyle 0.329592
+2. Ron 0.157513
+3. Harry 0.134476
+4. Malfoy 0.133219
+5. Hermione 0.124734
+6. Fred 0.113714
+7. Dumbledore 0.112943
+8. Snape 0.097727
+9. Sirius 0.0920498
+10. Ginny 0.0915906
+
+Most similar to Bathilda:
+1. Ginny 0.059158
+2. Voldemort 0.0469241
+3. Harry 0.0447286
+4. Snape 0.0441754
+5. Dumbledore 0.0424947
+6. Sirius 0.0415066
+7. Ron 0.0413698
+8. Hermione 0.0351947
+9. Nick 0.0343198
+10. Neville 0.0319472
+
+Most similar to Godric:
+1. Dobby 0.00320515
+2. Lupin 0.00203807
+3. Slytherin 0.00199729
+4. Dumbledore 0.00176151
+5. Hermione 0.0016534
+6. Aberforth 0.00148617
+7. Percy 0.00148387
+8. Harry 0.00144021
+9. Ron 0.00140511
+10. Snape 0.00133897
+
+Most similar to Madam Pomfrey:
+1. Snape 0.195308
+2. Dumbledore 0.192369
+3. Umbridge 0.17964
+4. Minerva McGonagall 0.176526
+5. Hermione 0.164153
+6. Harry 0.149088
+7. Ron 0.145339
+8. Molly Weasley 0.120034
+9. Lupin 0.114119
+10. Lockhart 0.11229
+
+Most similar to Kreacher:
+1. Dumbledore 0.163353
+2. Hermione 0.161236
+3. Harry 0.154277
+4. Ron 0.149678
+5. Snape 0.142703
+6. Dobby 0.140434
+7. Sirius 0.139698
+8. Bellatrix 0.113554
+9. Mr. Crouch 0.112834
+10. Voldemort 0.106047
+
+Most similar to Luna:
+1. Hermione 0.294709
+2. Ron 0.264132
+3. Harry 0.25207
+4. Dumbledore 0.231949
+5. Ginny 0.203131
+6. Fred 0.184267
+7. Sirius 0.181398
+8. Molly Weasley 0.181343
+9. Snape 0.180302
+10. Lupin 0.178153
+
+Most similar to Neville:
+1. Ron 0.342396
+2. Harry 0.339689
+3. Hermione 0.330366
+4. Dumbledore 0.25544
+5. Ginny 0.251668
+6. Snape 0.235337
+7. Sirius 0.224739
+8. Malfoy 0.220618
+9. Lupin 0.208559
+10. Fred 0.203169
+
+Most similar to Charlie:
+1. Ron 0.184254
+2. Hermione 0.176711
+3. Harry 0.164797
+4. Sirius 0.134055
+5. Ginny 0.124806
+6. Fred 0.123148
+7. Dumbledore 0.119223
+8. Malfoy 0.116414
+9. Bill 0.114399
+10. Mr. Weasley 0.105549
+
+Most similar to Bill:
+1. Harry 0.249639
+2. Ron 0.226985
+3. Hermione 0.212424
+4. Dumbledore 0.191984
+5. Snape 0.169778
+6. Sirius 0.166813
+7. Fred 0.158263
+8. Lupin 0.155952
+9. Ginny 0.155842
+10. Mr. Weasley 0.14787
+
+Most similar to Malfoy:
+1. Ron 0.458183
+2. Harry 0.458147
+3. Hermione 0.425552
+4. Dumbledore 0.373676
+5. Snape 0.372609
+6. Sirius 0.30769
+7. Fred 0.28985
+8. Ginny 0.280554
+9. Lupin 0.271846
+10. Molly Weasley 0.267604
+
+Most similar to Lucius:
+1. Harry 0.193323
+2. Ron 0.177812
+3. Snape 0.176936
+4. Dumbledore 0.17457
+5. Hermione 0.172554
+6. Malfoy 0.162869
+7. Mr. Crouch 0.159508
+8. Molly Weasley 0.14785
+9. Dobby 0.134446
+10. Sirius 0.13428
+
+Most similar to Arthur:
+1. Mr. Crouch 0.0817832
+2. Voldemort 0.0710658
+3. Lucius 0.0592656
+4. Dumbledore 0.055591
+5. Lily 0.0512302
+6. Ogden 0.0511871
+7. Mr. Weasley 0.0499523
+8. Albus Dumbledore 0.0468662
+9. Cedric 0.046797
+10. James 0.0460457
+
+Most similar to Hagrid:
+1. Ron 0.373566
+2. Harry 0.342874
+3. Hermione 0.336971
+4. Malfoy 0.256375
+5. Dumbledore 0.256103
+6. Fred 0.230718
+7. Sirius 0.224819
+8. Ginny 0.209504
+9. Molly Weasley 0.209121
+10. Lupin 0.203099
+
+Most similar to Dean:
+1. Ron 0.272923
+2. Hermione 0.25859
+3. Harry 0.21671
+4. Dumbledore 0.190781
+5. Ginny 0.189327
+6. Fred 0.185574
+7. Sirius 0.170569
+8. Seamus 0.169727
+9. Snape 0.162444
+10. Molly Weasley 0.161314
+
+Most similar to Slughorn:
+1. Dumbledore 0.301671
+2. Hermione 0.290755
+3. Harry 0.277512
+4. Ron 0.26849
+5. Snape 0.263876
+6. Lupin 0.21427
+7. Umbridge 0.206886
+8. Minerva McGonagall 0.203742
+9. Sirius 0.201428
+10. Fred 0.190082
+
+Most similar to Mr. Crouch:
+1. Dumbledore 0.295662
+2. Harry 0.243637
+3. Hermione 0.242385
+4. Snape 0.23771
+5. Ron 0.233399
+6. Sirius 0.230233
+7. Voldemort 0.201511
+8. Molly Weasley 0.18982
+9. Malfoy 0.174928
+10. Fred 0.169914
+
+Most similar to Percy:
+1. Hermione 0.364186
+2. Ron 0.354825
+3. Harry 0.329297
+4. Dumbledore 0.315362
+5. Sirius 0.296815
+6. Snape 0.255732
+7. Fred 0.250551
+8. Ginny 0.23513
+9. Molly Weasley 0.233596
+10. Lupin 0.231444
+
+Most similar to Griphook:
+1. Hermione 0.129821
+2. Ron 0.124466
+3. Harry 0.122863
+4. Hagrid 0.119416
+5. Dumbledore 0.116614
+6. Snape 0.111287
+7. Sirius 0.088503
+8. Lupin 0.0869365
+9. Malfoy 0.0829174
+10. Minerva McGonagall 0.0795817
+
+Most similar to Slytherin:
+1. Hufflepuff 0.0660005
+2. Harry 0.0427746
+3. Voldemort 0.0396175
+4. Dumbledore 0.0393199
+5. Ron 0.0381527
+6. Fred 0.0369583
+7. Malfoy 0.0339368
+8. Sirius 0.0313911
+9. Hermione 0.0287155
+10. Mr. Crouch 0.0271336
+
+Most similar to Karkaroff:
+1. Dumbledore 0.282082
+2. Hermione 0.242453
+3. Harry 0.237449
+4. Ron 0.220055
+5. Snape 0.219951
+6. Sirius 0.174489
+7. Fred 0.161976
+8. Lupin 0.156105
+9. Malfoy 0.155016
+10. Minerva McGonagall 0.153314
+
+Most similar to Katie:
+1. Hermione 0.100002
+2. Ron 0.0999373
+3. Harry 0.0949333
+4. Alicia 0.0887617
+5. Ginny 0.0855404
+6. Sirius 0.0724069
+7. Malfoy 0.0719188
+8. George 0.0701835
+9. Dumbledore 0.0692456
+10. Voldemort 0.0668862
+
+Most similar to Parvati:
+1. Hermione 0.299196
+2. Ron 0.258165
+3. Dumbledore 0.252065
+4. Harry 0.240438
+5. Snape 0.194864
+6. Ginny 0.189274
+7. Molly Weasley 0.183367
+8. Fred 0.180148
+9. Lupin 0.172829
+10. Minerva McGonagall 0.1701
+
+Most similar to Mrs. Weasley:
+1. Molly Weasley 0.188325
+2. Hermione 0.169899
+3. Ron 0.154071
+4. Harry 0.144607
+5. Dumbledore 0.132558
+6. Snape 0.122574
+7. Ginny 0.122026
+8. Fred 0.111036
+9. Mr. Weasley 0.106356
+10. Lupin 0.106022
+
+Most similar to Phineas Nigellus:
+1. Hermione 0.130562
+2. Harry 0.126552
+3. Dumbledore 0.125245
+4. Ron 0.124964
+5. Snape 0.11289
+6. Sirius 0.100509
+7. Lupin 0.0855002
+8. Minerva McGonagall 0.0844397
+9. Malfoy 0.0836544
+10. Fred 0.0803016
+
+Most similar to Crookshanks:
+1. Fang 0.0663826
+2. Kingsley 0.037499
+3. Harry 0.0284377
+4. Frank 0.0268007
+5. Ron 0.0266696
+6. Lucius 0.0266404
+7. Ginny 0.0234689
+8. Wood 0.0230049
+9. Sirius 0.019874
+10. Malfoy 0.0195805
+
+Most similar to Rita Skeeter:
+1. Hermione 0.236416
+2. Ron 0.198117
+3. Harry 0.197579
+4. Dumbledore 0.184946
+5. Sirius 0.152786
+6. Snape 0.146387
+7. Umbridge 0.142631
+8. Ginny 0.136087
+9. Mr. Weasley 0.131791
+10. Molly Weasley 0.130862
+
+Most similar to Nick:
+1. Ron 0.112449
+2. Harry 0.112028
+3. Hermione 0.10928
+4. Dumbledore 0.0867801
+5. Ginny 0.0800326
+6. Slughorn 0.0793124
+7. Mr. Weasley 0.0789162
+8. Molly Weasley 0.0788479
+9. Sirius 0.0772913
+10. Snape 0.0768908
+
+Most similar to Hufflepuff:
+1. Slytherin 0.0660005
+2. Charlie 0.0581588
+3. Dumbledore 0.0357269
+4. Umbridge 0.0353426
+5. Neville 0.0350877
+6. Snape 0.0333258
+7. Lockhart 0.0287656
+8. Minerva McGonagall 0.0275265
+9. Ron 0.0251066
+10. Harry 0.0248032
+
+Most similar to Lily:
+1. Ron 0.163524
+2. Hermione 0.161584
+3. Harry 0.158543
+4. Sirius 0.131257
+5. Dumbledore 0.13097
+6. Molly Weasley 0.129864
+7. Mr. Crouch 0.123682
+8. James 0.118742
+9. Ginny 0.118167
+10. Snape 0.118163
+
+Most similar to Sirius:
+1. Harry 0.515184
+2. Hermione 0.506065
+3. Ron 0.505699
+4. Dumbledore 0.47064
+5. Snape 0.370952
+6. Lupin 0.349558
+7. Fred 0.340596
+8. Ginny 0.328881
+9. Molly Weasley 0.31237
+10. Malfoy 0.30769
+
+Most similar to Mrs. Norris:
+1. Ron 0.0936245
+2. Hermione 0.0878884
+3. Harry 0.0871501
+4. Snape 0.0831842
+5. Sirius 0.082756
+6. Dumbledore 0.0746577
+7. Molly Weasley 0.0645456
+8. Malfoy 0.0643049
+9. Lupin 0.0623226
+10. Ginny 0.059967
+
+Most similar to Marge:
+1. Vernon Dursley 0.170414
+2. Harry 0.139137
+3. Ron 0.132836
+4. Hermione 0.132404
+5. Dumbledore 0.126304
+6. Snape 0.112781
+7. Petunia Dursley 0.105938
+8. Mr. Weasley 0.0948269
+9. Sirius 0.0934924
+10. Ginny 0.0909601
+
+Most similar to Lee Jordan:
+1. Ron 0.15854
+2. Malfoy 0.157486
+3. Hermione 0.137394
+4. Harry 0.133073
+5. Fred 0.115233
+6. Dumbledore 0.113966
+7. Wood 0.104182
+8. George 0.100993
+9. Snape 0.0939116
+10. Ginny 0.0912568
+
+Most similar to Stan:
+1. Ron 0.101262
+2. Harry 0.0959165
+3. Hermione 0.0877829
+4. Dumbledore 0.0840226
+5. Mrs. Weasley 0.0803336
+6. Fred 0.0719108
+7. Lupin 0.0693223
+8. Snape 0.0680036
+9. Malfoy 0.0658965
+10. Sirius 0.0652668
+
+Most similar to McLaggen:
+1. Ron 0.0880643
+2. Harry 0.0864867
+3. Hermione 0.0798441
+4. Ginny 0.0644675
+5. Snape 0.0585046
+6. Dumbledore 0.0558999
+7. Fred 0.0542763
+8. Mr. Weasley 0.0519496
+9. Percy 0.0509611
+10. Molly Weasley 0.0503695
+
+Most similar to Dumbledore:
+1. Hermione 0.608976
+2. Harry 0.601687
+3. Snape 0.568867
+4. Ron 0.563728
+5. Sirius 0.47064
+6. Lupin 0.457149
+7. Minerva McGonagall 0.413848
+8. Umbridge 0.411877
+9. Fred 0.391118
+10. Molly Weasley 0.390483
+
+Most similar to Cedric:
+1. Harry 0.231945
+2. Sirius 0.176264
+3. Voldemort 0.172276
+4. Dumbledore 0.15244
+5. Ron 0.145843
+6. Snape 0.132276
+7. Pettigrew 0.131777
+8. Malfoy 0.119146
+9. Hermione 0.117594
+10. Neville 0.112395
+
+Most similar to Grawp:
+1. Hagrid 0.165569
+2. Harry 0.0703109
+3. Ron 0.0590397
+4. Hermione 0.055704
+5. Seamus 0.0488682
+6. Malfoy 0.0486832
+7. Dumbledore 0.0389854
+8. Luna 0.0374048
+9. Fred 0.0343345
+10. Krum 0.0330725
+
+Most similar to Harry:
+1. Ron 0.732648
+2. Hermione 0.686491
+3. Dumbledore 0.601687
+4. Snape 0.521794
+5. Sirius 0.515184
+6. Malfoy 0.458147
+7. Ginny 0.453378
+8. Fred 0.445675
+9. Lupin 0.432117
+10. Molly Weasley 0.421176
+
+Most similar to Seamus:
+1. Ron 0.254944
+2. Hermione 0.236994
+3. Harry 0.227339
+4. Dumbledore 0.180406
+5. Ginny 0.176216
+6. Dean 0.169727
+7. Fred 0.16292
+8. Snape 0.15978
+9. Sirius 0.159305
+10. Malfoy 0.15526
+
+Most similar to Ron:
+1. Hermione 0.784281
+2. Harry 0.732648
+3. Dumbledore 0.563728
+4. Fred 0.541655
+5. Ginny 0.523176
+6. Sirius 0.505699
+7. Snape 0.49207
+8. Molly Weasley 0.471862
+9. Malfoy 0.458183
+10. Lupin 0.455022
+
+Most similar to Trelawney:
+1. Dumbledore 0.17073
+2. Hermione 0.162589
+3. Ron 0.151137
+4. Minerva McGonagall 0.146668
+5. Snape 0.14328
+6. Harry 0.141221
+7. Umbridge 0.140066
+8. Ginny 0.115047
+9. Sirius 0.112508
+10. Lupin 0.112434
+
+Most similar to Petunia Dursley:
+1. Hermione 0.179353
+2. Ron 0.153726
+3. Harry 0.139177
+4. Dumbledore 0.130867
+5. Vernon Dursley 0.124084
+6. Ginny 0.119187
+7. Molly Weasley 0.114169
+8. Snape 0.110753
+9. Minerva McGonagall 0.106616
+10. Marge 0.105938
+
+Most similar to Colin:
+1. Hermione 0.239233
+2. Ron 0.22526
+3. Harry 0.190128
+4. Dumbledore 0.164588
+5. Ginny 0.153427
+6. Fred 0.148025
+7. Molly Weasley 0.146107
+8. Snape 0.14509
+9. Mr. Weasley 0.136433
+10. Sirius 0.132952
+
+Most similar to Muriel:
+1. Morfin 0.116658
+2. Dumbledore 0.0541643
+3. Ron 0.0498546
+4. Harry 0.0492507
+5. Hermione 0.04823
+6. Lupin 0.0463004
+7. Sirius 0.0395363
+8. Ogden 0.0380096
+9. Ginny 0.0372545
+10. Snape 0.03629
+
+Most similar to Quirrell:
+1. Harry 0.0542512
+2. Malfoy 0.0489889
+3. Voldemort 0.0421131
+4. Cedric 0.041188
+5. Dumbledore 0.0382923
+6. Ron 0.0352017
+7. Sirius 0.0350531
+8. Mr. Weasley 0.0349411
+9. Hermione 0.0343906
+10. Goyle 0.0341995
+
+Most similar to Dursleys:
+1. Harry 0.130235
+2. Dumbledore 0.120132
+3. Hermione 0.11308
+4. Ron 0.112251
+5. Hagrid 0.111346
+6. Vernon Dursley 0.0947183
+7. Sirius 0.092843
+8. Snape 0.0869557
+9. Ginny 0.081306
+10. Mr. Weasley 0.0807223
+
+Most similar to Ernie:
+1. Hermione 0.167009
+2. Ron 0.162342
+3. Harry 0.148725
+4. Dumbledore 0.135985
+5. Malfoy 0.120135
+6. Snape 0.119489
+7. Ginny 0.111497
+8. Minerva McGonagall 0.108166
+9. Fred 0.103995
+10. Molly Weasley 0.0954116
+
+Most similar to Mr. Weasley:
+1. Hermione 0.454638
+2. Ron 0.44404
+3. Harry 0.406095
+4. Dumbledore 0.369186
+5. Molly Weasley 0.33406
+6. Fred 0.315117
+7. Snape 0.306283
+8. Lupin 0.305693
+9. Sirius 0.298443
+10. Ginny 0.287169
+
+Most similar to Umbridge:
+1. Dumbledore 0.411877
+2. Hermione 0.381532
+3. Snape 0.374689
+4. Ron 0.34421
+5. Harry 0.339677
+6. Minerva McGonagall 0.310325
+7. Fred 0.256617
+8. Lupin 0.246735
+9. Sirius 0.245489
+10. Ginny 0.241868
+
+Most similar to Tom Riddle:
+1. Hermione 0.288016
+2. Dumbledore 0.286917
+3. Harry 0.285326
+4. Ron 0.277618
+5. Snape 0.229713
+6. Ginny 0.218915
+7. Sirius 0.210064
+8. Lupin 0.191274
+9. Malfoy 0.189378
+10. Molly Weasley 0.17931
+
+Most similar to Wood:
+1. Ron 0.273182
+2. Hermione 0.26474
+3. Harry 0.244972
+4. Dumbledore 0.205249
+5. Fred 0.186145
+6. Snape 0.171507
+7. Ginny 0.169448
+8. Lupin 0.163563
+9. Malfoy 0.161218
+10. Mr. Weasley 0.157174
+
+Most similar to Ginny:
+1. Hermione 0.533925
+2. Ron 0.523176
+3. Harry 0.453378
+4. Dumbledore 0.372936
+5. Fred 0.356721
+6. Molly Weasley 0.336211
+7. Sirius 0.328881
+8. Snape 0.30973
+9. George 0.303073
+10. Lupin 0.291045
+
+Most similar to Alicia:
+1. Ginny 0.102021
+2. Ron 0.100341
+3. Hermione 0.0975896
+4. Harry 0.0902129
+5. Katie 0.0887617
+6. Molly Weasley 0.0761031
+7. Fred 0.0741441
+8. George 0.073295
+9. Dumbledore 0.0587251
+10. Malfoy 0.0584904
+
+Most similar to Snape:
+1. Dumbledore 0.568867
+2. Harry 0.521794
+3. Hermione 0.512701
+4. Ron 0.49207
+5. Minerva McGonagall 0.385431
+6. Umbridge 0.374689
+7. Lupin 0.374171
+8. Malfoy 0.372609
+9. Sirius 0.370952
+10. Molly Weasley 0.328182
+
+Most similar to Mundungus:
+1. Harry 0.0936659
+2. Ron 0.0867562
+3. Hermione 0.0805467
+4. Dumbledore 0.0728132
+5. Fred 0.0716443
+6. Snape 0.0649056
+7. Lupin 0.0646644
+8. Malfoy 0.063388
+9. Sirius 0.0620634
+10. Mr. Weasley 0.0571754
+
+Most similar to Ludo Bagman:
+1. Hermione 0.112067
+2. Ron 0.105637
+3. Harry 0.0997765
+4. Dumbledore 0.0943673
+5. Fred 0.0835945
+6. Snape 0.080544
+7. Lupin 0.0750262
+8. Mr. Weasley 0.07398
+9. Sirius 0.0735702
+10. George 0.0721412
+
+Most similar to Tonks:
+1. Hermione 0.274972
+2. Ron 0.259796
+3. Harry 0.240233
+4. Sirius 0.202874
+5. Dumbledore 0.201154
+6. Lupin 0.191167
+7. Ginny 0.190489
+8. Snape 0.173788
+9. Fred 0.170309
+10. Molly Weasley 0.166267
+
+Most similar to Narcissa:
+1. Snape 0.225792
+2. Bellatrix 0.197394
+3. Dumbledore 0.174575
+4. Hermione 0.162978
+5. Harry 0.148405
+6. Ron 0.145041
+7. Malfoy 0.114555
+8. Lupin 0.103441
+9. Sirius 0.101031
+10. Ginny 0.0969688
+
+Most similar to Xenophilius:
+1. Dumbledore 0.054663
+2. Hermione 0.0533504
+3. Harry 0.0528981
+4. Lupin 0.0510812
+5. Snape 0.0457048
+6. Minerva McGonagall 0.0455256
+7. Ron 0.0453017
+8. Ginny 0.0445688
+9. Malfoy 0.0392251
+10. George 0.037977
+
+Most similar to Morfin:
+1. Muriel 0.116658
+2. Dumbledore 0.0918575
+3. Ron 0.0870107
+4. Hermione 0.0853151
+5. Harry 0.0801017
+6. Ginny 0.073089
+7. Voldemort 0.0653094
+8. Molly Weasley 0.0622587
+9. Sirius 0.0588168
+10. Snape 0.0587481
+
+Most similar to Molly Weasley:
+1. Hermione 0.509845
+2. Ron 0.471862
+3. Harry 0.421176
+4. Dumbledore 0.390483
+5. Fred 0.342341
+6. Ginny 0.336211
+7. Mr. Weasley 0.33406
+8. Snape 0.328182
+9. Lupin 0.317348
+10. Sirius 0.31237
+
+Most similar to Ogden:
+1. Dumbledore 0.147271
+2. Harry 0.137726
+3. Hermione 0.137237
+4. Ron 0.127317
+5. Snape 0.10906
+6. Sirius 0.0986436
+7. Molly Weasley 0.0913315
+8. Malfoy 0.0896653
+9. Percy 0.0890538
+10. Minerva McGonagall 0.0859451
+
+Most similar to Cornelius Fudge:
+1. Dumbledore 0.0839756
+2. Snape 0.0552881
+3. Umbridge 0.0552233
+4. Harry 0.0504959
+5. Ron 0.0481579
+6. Sirius 0.0474714
+7. Voldemort 0.0471552
+8. Mundungus 0.0401295
+9. Minerva McGonagall 0.0397643
+10. Hermione 0.0396676
+
+Most similar to Hermione:
+1. Ron 0.784281
+2. Harry 0.686491
+3. Dumbledore 0.608976
+4. Ginny 0.533925
+5. Fred 0.516747
+6. Snape 0.512701
+7. Molly Weasley 0.509845
+8. Sirius 0.506065
+9. Lupin 0.483064
+10. Mr. Weasley 0.454638
+
+Most similar to Flitwick:
+1. Dobby 0.100211
+2. Minerva McGonagall 0.0932951
+3. Umbridge 0.0864963
+4. Snape 0.0834956
+5. Dumbledore 0.0665763
+6. Lockhart 0.0589619
+7. Madam Pomfrey 0.0577792
+8. Trelawney 0.0466185
+9. Harry 0.0455916
+10. Moody 0.0453515
+
+Most similar to Hedwig:
+1. Harry 0.0430581
+2. Ron 0.041129
+3. Hermione 0.0351316
+4. Neville 0.034556
+5. Dumbledore 0.0254852
+6. Sirius 0.0248967
+7. Snape 0.0243596
+8. Fred 0.0241609
+9. Ginny 0.0240702
+10. Malfoy 0.0218888
+
+Most similar to Dobby:
+1. Harry 0.226014
+2. Dumbledore 0.212244
+3. Hermione 0.206755
+4. Ron 0.187338
+5. Snape 0.18044
+6. Malfoy 0.152114
+7. Kreacher 0.140434
+8. Sirius 0.136163
+9. Lucius 0.134446
+10. Fred 0.130956
+
+Most similar to Buckbeak:
+1. Harry 0.0482158
+2. Sirius 0.0465
+3. Trelawney 0.0444635
+4. Ginny 0.0421684
+5. Hermione 0.0420147
+6. Ron 0.0410056
+7. Lupin 0.0397563
+8. Snape 0.0383078
+9. George 0.0382912
+10. Pettigrew 0.0345301
+
+Most similar to Frank:
+1. Harry 0.150336
+2. Dumbledore 0.10645
+3. Ron 0.103837
+4. Snape 0.0976454
+5. Voldemort 0.0920871
+6. Hermione 0.0902794
+7. Sirius 0.0863952
+8. Malfoy 0.086116
+9. Minerva McGonagall 0.0697566
+10. Neville 0.0694365
+
+Most similar to Ollivander:
+1. Dumbledore 0.175119
+2. Hermione 0.155921
+3. Harry 0.141149
+4. Ron 0.140901
+5. Snape 0.132939
+6. Molly Weasley 0.116287
+7. Lupin 0.109185
+8. Sirius 0.108256
+9. Mr. Weasley 0.104828
+10. Umbridge 0.102926
+
